@@ -125,5 +125,5 @@ Execute the program
 </table>
 ```
 
-# OUPUT
+# OUTPUT
 ![](./output.png)
